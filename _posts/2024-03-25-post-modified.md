@@ -1,5 +1,5 @@
 ---
-title: "Prediction of O and OH Adsorption on Transition Metal Oxide Surfaces from Bulk DescriptorsClick to copy"
+title: "Prediction of O and OH Adsorption on Transition Metal Oxide Surfaces from Bulk Descriptors"
 categories:
   - Blog
 tags:
