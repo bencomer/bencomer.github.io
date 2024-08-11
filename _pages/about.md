@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am an AI researcher specializing in computational materials science and AI, currently working at Shell in Houston, Texas. In my current role, I utilize generative methods to discover new molecules for catalyst formulations. My research interests center around applying AI techniques to solve problems in chemistry and chemical engineering. Recently, I have been particularly excited about materials and molecular property prediction, graph neural networks, and uncertainty quantification.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I earned my Ph.D. from Georgia Tech in 2020 under of A.J. Medford, with my thesis focusing on the photocatalytic generation of ammonia for green fertilizers. Following my Ph.D., I worked as a Postdoctoral Scholar at the SUNCAT Center at Stanford University, where I worked on electronic structure descriptors for predicting adsorption energies on oxide materials.
+
+In my free time, I enjoy lifting weights, hiking, and playing video games.
